@@ -1,0 +1,21 @@
+{
+  "name": "external-module",
+  "version": "1.0.0",
+  "description": "external module fisr time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "external",
+    "module"
+  ],
+  "author": "Sabbir hosen",
+  "license": "ISC",
+  "dependencies": {
+    "random-friend-names": "^1.0.1",
+    "random-fruits-name": "^1.10.0",
+    "random-movie-names": "^1.0.2"
+  }
+}
